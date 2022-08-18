@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Beapo/static/css/main.b6599965.css",
+    "main.js": "/Beapo/static/js/main.ab771888.js",
+    "static/media/NanumGothic.woff": "/Beapo/static/media/NanumGothic.f727c12e92591b9b6b11.woff",
+    "static/media/NanumGothic.eot": "/Beapo/static/media/NanumGothic.3ad13557626f45e322f0.eot",
+    "static/media/Noh.jpg": "/Beapo/static/media/Noh.ea49785fcac9d333e7a1.jpg",
+    "static/media/Lee.jpg": "/Beapo/static/media/Lee.be58698788b90ce02c70.jpg",
+    "static/media/Yeom.jpg": "/Beapo/static/media/Yeom.8c75d35f29cf1bf696fa.jpg",
+    "static/media/Park.jpg": "/Beapo/static/media/Park.242b7da525c24f63f431.jpg",
+    "index.html": "/Beapo/index.html",
+    "main.b6599965.css.map": "/Beapo/static/css/main.b6599965.css.map",
+    "main.ab771888.js.map": "/Beapo/static/js/main.ab771888.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6599965.css",
+    "static/js/main.ab771888.js"
+  ]
+}
